@@ -2,8 +2,8 @@
 Interfaz de restaurante con menú y ordenes de clientes
 
 Realizado por: 
-Sánchez Valenzuela Natalia Guadalupe 
-Rodriguez Andrade Denise Abigail
+- Sánchez Valenzuela Natalia Guadalupe 
+- Rodriguez Andrade Denise Abigail
 
 En este trabajo se implementó una interfaz para un restaurante de comida italiana. El sistema muestra cómo el cliente interactúa con la plataforma para enviar sus órdenes directamente a la cocina, sin necesidad de que un mesero tome las ordenes.
 
